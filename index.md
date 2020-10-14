@@ -21,7 +21,7 @@ Berikut ini beberapa hal yang dapat dilakukan untuk pengamanan Jaringan Nirkabel
 
 ```google
 
-https://images.app.goo.gl/ZChgTM9Y2hSvHt6UA
+https://id.m.wikipedia.org/wiki/Wired_Equivalent_Privacy
 
 ```
 
@@ -29,9 +29,19 @@ https://images.app.goo.gl/ZChgTM9Y2hSvHt6UA
 
 ```google
 
-https://images.app.goo.gl/ptg8e5t698FczDyq5)
+https://id.m.wikipedia.org/wiki/Wi-Fi_Protected_Access
 
 ```
+3. Mac Filtering
+
+```google
+
+https://www.google.com/amp/s/teknik7.wordpress.com/2017/07/23/pengertian-mac-filtering/amp/
+
+```
+
+Berikut ini beberapa hal yang dapat dilakukan untuk mengamankan Jaringan Nirkabel.
+Semoga dapat membantu dan bermanfaat. Atas perhatiannya saya ucapkan terima kasih.
 
 
 
