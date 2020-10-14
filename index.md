@@ -16,3 +16,8 @@ Berikut ini beberapa hal yang dapat dilakukan untuk pengamanan Jaringan Nirkabel
 - WEP (Wired Equivalent Privacy).
 - WPA (Wi-Fi Protected Access).
 - Mac Filtering 
+
+1. WEP (Wired Equivalent Privacy)
+
+![Image](images(7).jpeg)
+
