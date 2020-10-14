@@ -23,7 +23,7 @@ Berikut ini beberapa hal yang dapat dilakukan untuk pengamanan Jaringan Nirkabel
 
 2. WPA (Wi-Fi Protected Access)
 
-![Image](https://images.app.goo.gl/ptg8e5t698FczDyq5)
+https://images.app.goo.gl/ptg8e5t698FczDyq5)
 
 
 
