@@ -19,7 +19,7 @@ Berikut ini beberapa hal yang dapat dilakukan untuk pengamanan Jaringan Nirkabel
 
 1. WEP (Wired Equivalent Privacy)
 
-![Image](images(7).jpeg)
+https://images.app.goo.gl/ZChgTM9Y2hSvHt6UA
 
 2. WPA (Wi-Fi Protected Access)
 
