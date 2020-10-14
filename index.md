@@ -27,7 +27,11 @@ https://images.app.goo.gl/ZChgTM9Y2hSvHt6UA
 
 2. WPA (Wi-Fi Protected Access)
 
+```google
+
 https://images.app.goo.gl/ptg8e5t698FczDyq5)
+
+```
 
 
 
